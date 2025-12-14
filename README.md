@@ -1,52 +1,75 @@
-# 🌍 Countries of the World 2023 – Exploratory Data Analysis
+# 📊 EDA Projects Portfolio
 
-## 📌 Project Overview
-This project performs an **Exploratory Data Analysis (EDA)** on the *Countries of the World 2023* dataset.  
-The goal is to explore global country-level data and uncover patterns related to **population, economy, geography, and development indicators**.
-
----
-
-## 🎯 Objectives
-- Understand the distribution of countries across different regions
-- Analyze population and economic indicators
-- Identify correlations between key variables
-- Extract meaningful insights from global data
+Welcome to my **Exploratory Data Analysis (EDA) portfolio**!  
+This repository contains multiple EDA projects I have completed, using Python, Pandas, Matplotlib, Seaborn, and other data analysis tools.
 
 ---
 
-## 📊 Dataset
-- Source: [Kaggle – Countries of the World 2023](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023)
-- Data includes:
-  - Population
-  - Area
-  - GDP and economic indicators
-  - Geographic and regional information
+## 🗂 Projects Overview
+
+### 1️⃣ Countries of the World 2023
+- **Description:** Exploratory analysis on global country-level data, covering population, GDP, area, and regional statistics.  
+- **Dataset:** [Kaggle – Countries of the World 2023](https://www.kaggle.com/datasets/nelgiriyewithana/countries-of-the-world-2023)  
+- **Files:**  
+  - `notebooks/countries_world_2023_analysis.ipynb`  
+  - `data/countries_world_2023/`  
+
+---
+
+### 2️⃣ Business Sales
+- **Description:** EDA on business sales data, analyzing sales trends, product performance, and regional patterns.  
+- **Dataset:** [Kaggle – Business Sales](https://www.kaggle.com/datasets/ayeshaseherr/buisness-sales)  
+- **Files:**  
+  - `notebooks/business_sales_analysis.ipynb`  
+  - `data/business_sales/`  
+
+---
+
+### 3️⃣ Titanic Dataset
+- **Description:** Classic Titanic dataset EDA, exploring survival rates based on demographic and passenger features.  
+- **Dataset:** [Titanic CSV](https://gist.githubusercontent.com/fyyying/4aa5b471860321d7b47fd881898162b7/raw/6907bb3a38bfbb6fccf3a8b1edfb90e39714d14f/titanic_dataset.csv)  
+- **Files:**  
+  - `notebooks/titanic_analysis.ipynb`  
+  - `data/titanic/`  
+
+---
+
+### 4️⃣ Uber Trip Analysis
+- **Description:** Analysis of Uber trip data for 2016, including trip frequency, distance, and patterns by city.  
+- **Dataset:** [My Uber Drives - 2016](https://raw.githubusercontent.com/EshitaNandy/Uber-Trip-Analysis/master/My%20Uber%20Drives%20-%202016.csv)  
+- **Files:**  
+  - `notebooks/uber_trip_analysis.ipynb`  
+  - `data/uber/`  
+
+---
+
+### 5️⃣ Superstore Dataset
+- **Description:** EDA on Superstore sales data, analyzing revenue, product categories, and customer segments.  
+- **Dataset:** [Kaggle – Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)  
+- **Files:**  
+  - `notebooks/superstore_analysis.ipynb`  
+  - `data/superstore/`  
+
+---
+
+### 6️⃣ Students Performance in Exams
+- **Description:** EDA on student exam performance, analyzing scores across subjects and demographic features.  
+- **Dataset:** [Kaggle – Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data)  
+- **Files:**  
+  - `notebooks/students_performance_analysis.ipynb`  
+  - `data/students_performance/`  
 
 ---
 
 ## 🛠 Tools & Libraries
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+- Python  
+- Pandas, NumPy  
+- Matplotlib, Seaborn  
+- Jupyter Notebook  
 
 ---
 
-## 🔍 Analysis Steps
-1. Data loading and inspection  
-2. Data cleaning and preprocessing  
-3. Exploratory data analysis  
-4. Data visualization  
-5. Insights and observations  
+## 📂 Repository Structure
 
----
-
-## 📈 Key Insights
-- Significant variation in population and GDP across regions
-- Strong correlations between economic and development indicators
-- Clear regional patterns in demographic and economic metrics
-
----
 
 ## 📂 Project Structure
