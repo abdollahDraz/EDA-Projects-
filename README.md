@@ -1,7 +1,7 @@
 # 📊 EDA Projects Portfolio
 
 Welcome to my **Exploratory Data Analysis (EDA) portfolio**!  
-This repository contains multiple EDA projects I have completed, using Python, Pandas, Matplotlib, Seaborn, and other data analysis tools.
+This repository contains multiple EDA projects I have completed using Python, Pandas, Matplotlib, Seaborn, and other data analysis tools.
 
 ---
 
@@ -45,7 +45,7 @@ This repository contains multiple EDA projects I have completed, using Python, P
 
 ### 5️⃣ Superstore Dataset
 - **Description:** EDA on Superstore sales data, analyzing revenue, product categories, and customer segments.  
-- **Dataset:** [Kaggle – Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)  
+- **Dataset:** [Kaggle – Superstore Dataset Final](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)  
 - **Files:**  
   - `notebooks/superstore_analysis.ipynb`  
   - `data/superstore/`  
@@ -61,6 +61,24 @@ This repository contains multiple EDA projects I have completed, using Python, P
 
 ---
 
+### 7️⃣ Amazon Sales Dataset
+- **Description:** Exploratory analysis on Amazon sales data, studying revenue trends, product performance, and sales distribution.  
+- **Dataset:** [Kaggle – Amazon Sales Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)  
+- **Files:**  
+  - `notebooks/amazon_sales_analysis.ipynb`  
+  - `data/amazon_sales/`  
+
+---
+
+### 8️⃣ Superstore Dataset Final
+- **Description:** Another EDA on Superstore data, deeper analysis of sales, profits, and product performance.  
+- **Dataset:** [Kaggle – Superstore Dataset Final](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)  
+- **Files:**  
+  - `notebooks/superstore_final_analysis.ipynb`  
+  - `data/superstore_final/`  
+
+---
+
 ## 🛠 Tools & Libraries
 - Python  
 - Pandas, NumPy  
@@ -70,6 +88,3 @@ This repository contains multiple EDA projects I have completed, using Python, P
 ---
 
 ## 📂 Repository Structure
-
-
-## 📂 Project Structure
