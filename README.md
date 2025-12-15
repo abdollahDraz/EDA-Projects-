@@ -1,7 +1,7 @@
 # 📊 EDA Projects Portfolio
 
 Welcome to my **Exploratory Data Analysis (EDA) portfolio**!  
-This repository contains multiple EDA projects I have completed using Python, Pandas, Matplotlib, Seaborn, and other data analysis tools.
+This repository contains multiple EDA projects I have completed using Python, Pandas, Matplotlib, Seaborn, Plotly and other data analysis tools.
 
 ---
 
@@ -82,7 +82,7 @@ This repository contains multiple EDA projects I have completed using Python, Pa
 ## 🛠 Tools & Libraries
 - Python  
 - Pandas, NumPy  
-- Matplotlib, Seaborn  
+- Matplotlib, Seaborn , Plotly  
 - Jupyter Notebook  
 
 ---
